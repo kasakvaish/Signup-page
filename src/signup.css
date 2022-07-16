@@ -1,0 +1,67 @@
+
+
+.brand {
+	margin-left: 20px;
+	font-variant-caps: all-petite-caps;
+	color: red;
+	font-family: ubuntu, sans-serif;
+	font-size: 2em;
+	padding-top: 90px;
+}
+.image {
+	max-width: 100%;
+	margin: 0;
+	/* align-items: center; */
+}
+/* .pass{
+	display: flex;
+	flex-direction: row;
+} */
+
+
+.box-border {
+	margin-top: -420px;
+	align-items: center;
+	margin-left: 150px;
+}
+
+.box-border-2 {
+	margin-top: -115px;
+	text-align: center;
+}
+
+.container {
+	display: flex;
+	flex-direction: row;
+	padding-top: 20px;
+}
+
+.line {
+	text-decoration: underline solid 2px green;
+}
+
+.box {
+	display: flex;
+	flex-direction: row;
+}
+
+.content {
+	margin-left: 150px;
+}
+
+
+.btn {
+	margin-top: 35px;
+	width: 500px;
+	height: 40px;
+	background-color: #336b50;
+	color: #fff;
+	border-radius: 5px;
+	font-size: larger;
+}
+
+
+input {
+	width: 500px;
+	height: 30px;
+}

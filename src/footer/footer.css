@@ -1,0 +1,104 @@
+/*----------------- FOOTER STYLING -----------------*/
+
+.footer{
+    background-color: black;
+    color: white;
+    margin-top: 5px;
+}
+
+.foot-up{
+    position: relative;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+
+.address {
+    margin: 0rem 5rem 2rem;
+    width: 80%;
+    font-size: 1.2rem;
+}
+.Logo {
+    display: flex;
+    flex-direction: row;
+    margin-left: 80px;
+}
+
+.log-img {
+    height: 50px;
+    margin-top: 50px;
+    text-decoration: underline solid green;
+}
+
+.log{
+    display: flex;
+    flex-direction: row;
+}
+
+.Pharmacy {
+    color: #ff476f;
+    font-size: xxx-large;
+    margin-top: 28px;
+}
+
+.address span{
+    display: block;
+}
+
+.information{
+    top: 200px;
+    justify-content: center;
+    margin: 3rem 5rem 2rem;
+}
+
+.organisation{
+    justify-content: center;
+    margin: 3rem 5rem 2rem;
+}
+
+.contacts{
+    justify-content: centre;
+    margin: auto 3rem;
+}
+
+.foot-down{
+    grid-template-columns: auto auto auto;
+    padding-bottom: 10px;
+}
+
+.foot-down p{
+    text-align: center;
+    margin-left: auto;
+}
+
+.foot-logo{
+    margin: auto;
+}
+
+.icons{
+    margin: auto;
+}
+
+.icons svg{
+    margin: 1rem;
+    border: 1px solid #336b50;
+    border-radius: 30px;
+    width: 40px;
+    height: 40px;
+    background: #e9fff5;
+    color: #336b50;
+}
+
+.MedLife {
+    color:#ff476f;
+}
+
+.Let {
+    text-decoration: underline solid green;
+}
+
+.sub-container {
+    margin-top: -20px;
+    display: flex;
+    flex-direction: row;
+}
